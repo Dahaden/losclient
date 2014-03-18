@@ -11,6 +11,8 @@ code is mildly terrible (it's my first time using Scala so please be gentle).
 
 SBT is bundled with the repo.
 
+You must be using OSX or Linux!!
+
 1. git clone this repo `git clone https://github.com/Dahaden/losclient.git`
 
 2. Set the environment variable `LOS_HOST` to the server's address.
