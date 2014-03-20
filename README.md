@@ -15,11 +15,13 @@ You must be using OSX or Linux!!
 
 1. git clone this repo `git clone https://github.com/Dahaden/losclient.git`
 
-2. Set the environment variable `LOS_HOST` to the server's address.
+2. Set the environment variable `LOS_HOST` to the server's address. eg `export LOS_HOST=server_name:port`
 
-3. Run `./start.sh` in the client directory.
+3. Move to client directory `cd losclient` 
 
-4. Call `var me = login(charName, token)`
+4. Run `./start.sh` in the client directory.
+
+5. Call `var me = login(charName, token)`
    If you do not have a charName or token, see the SESA facebook page for details
 
-5. Follow tutorial http://sesa.org.nz/los
+6. Follow tutorial http://sesa.org.nz/los
