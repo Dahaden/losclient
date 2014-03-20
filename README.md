@@ -25,3 +25,5 @@ You must be using OSX or Linux!!
    If you do not have a charName or token, see the SESA facebook page for details
 
 6. Follow tutorial http://sesa.org.nz/los
+
+(Note: Everytime you want to start playing, you must repeat 2-5)
